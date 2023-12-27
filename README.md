@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogsh008
+- 👋 Hi, I’m @yogesh008
 - 👀 I’m interested in pentration testing,SOC,Hackng & Networking
 - 🌱 I’m currently learning Bharathiyar university 
 - 💞️ I’m looking to cyber security related job
