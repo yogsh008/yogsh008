@@ -2,7 +2,7 @@
 - 👀 I’m interested in pentration testing,SOC,Hackng & Networking
 - 🌱 I’m currently learning Bharathiyar university 
 - 💞️ I’m looking to cyber security related job
-- 📫 How to reach me in gmail- mkyogesh006@gmail.com
+- 📫 DM  me in gmail- mkyogesh006@gmail.com
 
 <!---
 yogsh008/yogsh008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
